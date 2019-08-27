@@ -4,7 +4,7 @@ A simple convolutional neural net to recognize digits from the [Optical Recognit
 
 ## Interface example
 
-![Digitizer interface](digitizer_example.png?raw=true =200x)
+![Digitizer interface](digitizer_example.png =200x)
 
 ## Usage
 
